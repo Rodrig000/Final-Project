@@ -1,4 +1,4 @@
-                                                                    By: Rodrigo Quiroz
+                                 By: Rodrigo Quiroz
 # Final-Project
 ----------------
 ## Unit Description
