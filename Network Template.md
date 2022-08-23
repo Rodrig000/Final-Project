@@ -1,4 +1,4 @@
-                                                                   By: Rodrigo Quiroz
+                                    By: Rodrigo Quiroz
 # Network Forensic Analysis Report 
 ------------------------------------
 ## Time Thieves
